@@ -5,6 +5,7 @@ import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 
 /**
  * Created by justin on 13/10/2015.
+ * 
  */
 public class Payment {
 
